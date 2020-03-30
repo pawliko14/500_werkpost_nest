@@ -1,141 +1,141 @@
 only white
-W1/1A
-only white
-W1/1C
-only white
-W1/1C
-only white
-only white
-only white
-W1/1B
-only white
-only white
-W8/1
-only white
-W2/1
-W2/1
-only white
-W1/1B
-only white
-only white
-only white
-only white
-only white
-only white
-only white
-only white
-only white
-only white
-only white
-only white
-W2/1
-No data
-W1/1B
-W8/1
-W3/1
-W1/1A
-W3/1
-W1/1B
-W2/1
-W4/1
-W4/1
-W3/1
-W5/1
-W2/1
-W4/1
-W4/1
-W4/1
-W4/1
-W4/1
-W2/1
-W1/1B
-W1/1B
-W1/1B
-W4/1
-W1/1A
-W4/1
-W1/1B
-W1/1B
-W1/1B
-W1/1A
-W2/1
-W1/1B
-W1/1B
-W1/1C
-W1/1B
-W1/1C
-W1/1C
-W1/1C
-W1/1B
-W1/1B
-W1/1C
-W1/1C
-W1/1C
-W1/1B
-W1/1B
-W1/1B
-W1/1B
-W1/1C
-W4/1
-W4/1
-W4/1
-W2/1
-W4/1
-W4/1
-W4/1
-W4/1
-W4/1
-W4/1
-W3/1
-W4/1
-W4/1
-W2/1
-W4/1
-W4/1
-W4/1
-W4/1
-W4/1
-W2/1
-W2/1
-W4/1
-W4/1
-W4/1
-W4/1
-W3/1
+30
+only white
+40
+only white
+30
+only white
+only white
+only white
+20
+only white
+only white
+30
+only white
+60
+40
+only white
+10
+only white
+only white
+only white
+only white
+only white
+only white
+only white
+only white
+only white
+only white
+only white
+only white
+40
+no Data
+60
+20
+10
+90
+30
+60
+90
+60
+20
+90
+60
+20
+60
+40
+30
+90
+90
+50
+90
+20
+20
 W4/1
-W4/1
-W4/1
-W4/1
-W4/1
-W4/1
-W4/1
-W2/1
-W1/1A
-W4/1
-W1/1A
-W2/1
-W4/1
-W4/1
-W4/1
-W1/1A
-W4/1
-W3/1
+50
+20
+70
+40
+90
+60
+70
+40
+40
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+30
+30
+30
+70
+40
+60
+40
+50
+60
+40
+40
+40
+85
+30
+40
+30
+90
+85
+100
+40
+30
+50
+30
+30
+80
+70
+40
+40
+30
+40
+70
+40
+40
+40
+40
+40
+40
+40
+50
+20
+70
+20
+90
+40
+40
+40
+50
+30
+10
 only white
-W1/1C
+30
 only white
-W2/1
-W1/1B
-W3/1
+30
+90
+10
 only white
-W1/1A
+20
 only white
-W1/1B
+10
 only white
 only white
-W3/1
-W3/1
+90
+90
 only white
-W2/1
+50
 only white
 only white
 only white
@@ -153,19 +153,19 @@ only white
 only white
 only white
 only white
-W8/1
-W9/1
-W1/1C
+10
+80
+50
 only white
 only white
 only white
 only white
 only white
-W1/1A
-W9/1
-W1/1B
-W1/1C
-W2/1
+20
+60
+30
+70
+40
 only white
 only white
 only white
@@ -174,80 +174,80 @@ only white
 only white
 only white
 only white
-W2/1
+70
 only white
 only white
-W1/1B
+30
 only white
 only white
-W1/1C
-W1/1A
+40
+40
 only white
-W9/1
-W1/1C
-W2/1
+80
+40
+140
 only white
 only white
 only white
-W2/1
+120
 W2/1
-W3/1
-W1/1C
-W1/1C
-W1/1B
+10
+50
+30
+90
 only white
-W2/1
+60
 only white
-W2/1
+40
 only white
-W1/1A
-W1/1B
+50
+60
 only white
 only white
 only white
-W1/1B
+60
 only white
 only white
-W1/1A
+20
 only white
-W9/1
-W9/1
-W9/1
-W9/1
-W1/1C
+140
+140
+140
+160
+20
 only white
 only white
 only white
 only white
-W4/1
+50
 only white
-null
-W1/1B
+100
+20
 only white
-W1/1C
-W2/1
-W1/1B
+20
+90
+40
 only white
-W2/1
-W2/1
-W1/1B
-W2/1
+30
+70
+40
+50
 only white
 only white
-W1/1C
+50
 only white
-W1/1A
-W1/1A
+50
+30
 only white
 only white
 only white
 only white
 only white
-W1/1B
-W1/1C
+30
+30
 only white
 only white
-W1/1A
+30
 only white
 only white
 only white
@@ -257,198 +257,198 @@ only white
 only white
 only white
 W1/1B
-W1/1A
-W1/1C
-W4/1
+40
+40
+50
 only white
 only white
 only white
-W1/1A
+60
 only white
 only white
 only white
 only white
 only white
-W1/1B
+20
 only white
-W1/1C
-W2/1
+40
+30
 only white
 only white
 only white
-W2/1
+110
 only white
 only white
 only white
-W1/1B
-W2/1
+80
+50
 only white
 only white
-W2/1
+140
 only white
-W1/1A
+40
 only white
 only white
-W1/1B
+60
 only white
 only white
-W4/1
-W2/1
-W4/1
-W2/1
-W2/1
-W4/1
-W1/1A
+20
+30
+20
+40
+30
+90
+50
 only white
-W1/1B
-W1/1C
-W1/1A
+60
+60
+90
 only white
-W1/1B
-W8/1
-W1/1A
-W3/1
-W1/1A
-W1/1A
+30
+20
+60
+100
+40
+30
 only white
-W1/1B
-W1/1C
+60
+20
 only white
-W1/1B
+60
 only white
-W1/1A
-W2/1
+80
+90
 only white
 only white
-W2/1
+30
 only white
 only white
 only white
 only white
-W2/1
+10
 only white
 only white
-W2/1
+30
 only white
-W1/1C
+40
 only white
-W1/1A
-W4/1
-W4/1
-W3/1
+40
+20
+20
+10
 only white
 only white
 only white
 only white
 only white
 only white
-W3/1
-W1/1A
+10
+30
 only white
-W1/1B
+70
 only white
-W3/1
+30
 only white
 only white
 only white
 only white
-W5/1
-W1/1A
+40
+20
 only white
-W1/1B
-W4/1
-W4/1
-W2/1
+40
+30
+30
+30
 only white
 only white
-W1/1A
-W2/1
-W3/1
+40
+50
+90
 only white
 only white
 only white
 only white
 only white
 only white
-W1/1C
+50
 only white
-W4/1
+70
 only white
 only white
-W1/1A
-W5/1
+20
+60
 only white
-W2/1
-W2/1
-W1/1B
-W2/1
-W4/1
+40
+60
+20
+20
+70
 only white
 only white
-W1/1C
+60
 only white
-W4/1
-W2/1
+50
+60
 only white
 only white
-W1/1A
-W4/1
-W4/1
-KOP7
-W2/1
+10
+40
+40
+80
+30
 only white
-W8/1
-W1/1A
+20
+20
 only white
-W1/1A
+40
 only white
-W2/1
-W2/1
-W1/1A
-W1/1A
-W1/1C
+30
+20
+50
+50
+20
 only white
-W2/1
+30
 only white
 only white
 only white
 only white
 only white
-W1/1A
+20
 only white
-W1/1B
-W2/1
-W5/1
+80
+110
+70
 only white
-W2/1
-W2/1
-W1/1A
-W1/1A
-W2/1
+20
+20
+30
+30
+40
 only white
 only white
-W2/1
+70
 only white
 only white
 only white
 only white
-W5/1
+40
 only white
 only white
-W5/1
-W2/1
+20
+20
 only white
 only white
 only white
-W1/1B
+20
 only white
 only white
-W4/1
-W1/1A
+90
+80
 only white
 only white
-W4/1
-W2/1
+70
+50
 only white
 only white
 only white
@@ -460,140 +460,140 @@ only white
 only white
 only white
 only white
-W1/1B
+40
 only white
-W1/1C
+40
 only white
 only white
 only white
 only white
-W2/1
-W5/1
+110
+10
 only white
 only white
 only white
 only white
-W4/1
-W4/1
-W1/1A
-W2/1
-null
+60
+60
+40
+20
+30
 only white
 only white
-W2/1
-W2/1
-W1/1C
-No data
+50
+10
+30
+no Data
 only white
 only white
 only white
 only white
-W1/1A
-W1/1A
+20
+20
 only white
-W2/1
-W1/1B
-W2/1
-W1/1A
-W2/1
-W1/1B
-W2/1
-W1/1A
-W1/1A
-W2/1
-W4/1
-W5/1
-W1/1A
-W1/1A
+10
+30
+20
+20
+60
+30
+20
+30
+40
+10
+40
+90
+20
+20
 only white
 only white
 only white
-W1/1A
+90
 only white
-W9/1
-W5/1
-W5/1
-null
-W4/1
+50
+40
+30
+100
+20
 only white
-W1/1C
-W1/1C
-W1/1C
+40
+40
+40
 only white
 only white
 only white
 only white
 only white
 only white
-W9/1
-W2/1
-W1/1B
-W1/1B
-W2/1
-W4/1
-W1/1C
-W1/1B
-W1/1B
-W1/1B
-W1/1B
-W1/1B
-W1/1B
-W1/1B
-W1/1B
-W1/1B
-W1/1B
-W1/1B
-W1/1B
-W1/1B
-W1/1B
-No data
+20
+50
+20
+60
+30
+40
+30
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+no Data
 only white
 only white
-W1/1A
-W1/1B
-W2/1
+60
+50
+50
 only white
 only white
-W1/1C
-W2/1
+40
+50
 only white
-W1/1B
-W1/1C
-W1/1A
+10
+20
+20
 only white
-W4/1
-KOP prblm
-No data
-No data
+60
+80
+no Data
+no Data
 only white
 only white
 only white
-W2/1
+20
 only white
 only white
 only white
 only white
 only white
-No data
-W1/1C
-W1/1B
+no Data
+30
+40
 only white
-No data
-W8/1
-W2/1
-W8/1
+no Data
+30
+10
+20
 only white
 only white
-W2/1
-W2/1
-W4/1
-W4/1
+60
+10
+60
+50
 only white
-W3/1
+10
 only white
-W1/1A
-W5/1
-val prblm
+40
+50
+130
 only white
 only white
 only white
@@ -603,74 +603,74 @@ only white
 only white
 only white
 only white
-W3/1
+70
 only white
 only white
-W1/1B
+40
 only white
-W1/1C
+40
 only white
-KOP prblm
-W9/1
-W3/1
-W1/1B
+50
+10
+10
+90
 only white
-W4/1
+40
 only white
-W3/1
-W4/1
-W1/1C
-W1/1C
-W1/1C
-W1/1B
-W2/1
+50
+30
+30
+40
+50
+30
+10
 only white
-W1/1A
-W1/1B
-W2/1
-W1/1C
-W1/1B
-W4/1
-W4/1
-W1/1B
+60
+20
+40
+50
+20
+20
+20
+60
 only white
-W2/1
-W1/1B
-W1/1B
-W1/1A
-W1/1A
-W1/1A
-W3/1
-W2/1
-W9/1
-W8/1
+20
+60
+50
+40
+30
+20
+40
+90
+100
+30
 only white
-W4/1
-W2/1
-W2/1
+60
+30
+120
 only white
-W1/1A
+50
 only white
 only white
 only white
-W2/1
-W4/1
-W1/1A
+10
+20
+60
 only white
-W1/1A
+10
 only white
-W1/1B
-W1/1B
-W1/1A
+20
+20
+40
 only white
 only white
-W1/1B
+30
 only white
 only white
 only white
-W2/1
+50
 only white
-W2/1
+60
 only white
 only white
 only white
@@ -682,20 +682,20 @@ only white
 only white
 only white
 only white
-No data
-W5/1
-W2/1
+no Data
+50
+80
 only white
 only white
 only white
-W1/1A
-W1/1C
+40
+30
 only white
 only white
 only white
 only white
 only white
-W2/1
+50
 only white
 only white
 only white
@@ -703,12 +703,12 @@ only white
 only white
 only white
 only white
-W2/1
-W1/1A
-W1/1A
-W1/1A
-W2/1
-null
+40
+40
+40
+40
+20
+20
 only white
 only white
 only white
@@ -716,7 +716,7 @@ only white
 only white
 only white
 only white
-W1/1A
+70
 only white
 only white
 only white
@@ -724,100 +724,100 @@ only white
 only white
 only white
 only white
-W2/1
+60
 only white
-W2/1
-W1/1B
-W1/1B
-W9/1
+90
+40
+30
+80
 only white
 only white
-W1/1A
-W9/1
-W9/1
-W9/1
+50
+50
+170
+160
 only white
 only white
-W1/1C
+20
 only white
-W2/1
+70
 only white
-W2/1
-W1/1A
+30
+30
 only white
-W1/1A
+30
 only white
-W1/1A
-W1/1B
-W3/1
+30
+30
+10
 only white
-W5/1
+20
 only white
-W2/1
+70
 only white
-W4/1
-W1/1C
+90
+30
 only white
 only white
-W5/1
-W5/1
+50
+20
 only white
 only white
 only white
-W1/1B
+30
 only white
 only white
 only white
-W1/1A
+20
 only white
-W2/1
+30
 only white
 only white
 only white
-W1/1B
-W1/1C
+30
+60
 only white
-W2/1
-W1/1A
+30
+40
 only white
 only white
-W1/1C
+30
 only white
-null
-W1/1A
-W1/1C
+80
+50
+70
 only white
-W1/1C
+30
 only white
-W4/1
-W5/1
+40
+50
 only white
 only white
 only white
-W2/1
+40
 only white
 only white
 only white
 only white
-W1/1B
+20
 only white
-W2/1
-W2/1
+50
+50
 only white
-W1/1C
-W5/1
+20
+50
 only white
-W1/1B
-W8/1
-W9/1
-W1/1B
-W4/1
+20
+100
+120
+120
+40
 only white
-W1/1A
-W2/1
-W2/1
+50
+140
+120
 only white
-W1/1B
+20
 only white
 only white
 only white
@@ -825,251 +825,251 @@ only white
 only white
 only white
 only white
-W4/1
-W2/1
-W2/1
-W1/1C
-W4/1
-W4/1
-W5/1
-W2/1
-null
+50
+40
+40
+30
+30
+30
+20
+20
+20
 only white
 only white
 only white
 only white
 only white
-W1/1A
-W2/1
-W2/1
-W1/1B
+100
+20
+70
+20
 only white
 only white
 only white
 only white
-W1/1B
+40
 only white
 only white
 only white
 only white
 only white
-W8/1
+20
 only white
 only white
 only white
-W1/1B
+50
 only white
 only white
 only white
-W1/1B
-W1/1A
+30
+30
 only white
-W1/1C
+30
 only white
-W1/1B
-W9/1
+20
+80
 only white
 only white
-W1/1B
+20
 only white
-W2/1
+60
 only white
-W1/1A
-W5/1
+50
+10
 only white
-W1/1B
+20
 only white
 only white
 only white
-W1/1C
-W1/1A
-W1/1C
-W1/1B
+30
+30
+20
+30
 only white
 only white
 only white
 only white
-W4/1
+70
 only white
 only white
 only white
 only white
 only white
-W4/1
+60
 only white
 only white
 only white
-W3/1
-W2/1
+10
+110
 only white
-W2/1
+80
 only white
-W5/1
-W1/1B
+60
+20
 only white
-W8/1
+20
 only white
 only white
-W8/1
-W1/1A
-W1/1C
-W1/1A
-W4/1
-W1/1A
-W1/1A
-W1/1A
-W1/1A
-W1/1A
+30
+30
+20
+40
+50
+30
+20
+20
+20
+20
 only white
 only white
 only white
-W1/1C
-W1/1A
-W1/1B
-W1/1A
+30
+110
+20
+50
 only white
-W1/1A
-W1/1A
+70
+120
 only white
-W1/1B
+20
 only white
-W1/1A
-W2/1
-W2/1
-W1/1A
+20
+50
+50
+40
 only white
 only white
 only white
-W1/1A
+30
 only white
-null
+20
 only white
-W1/1B
-W1/1C
-W1/1B
-W1/1B
-null
+20
+30
+60
+30
+20
 only white
 only white
-W3/1
+60
 only white
 only white
-W2/1
-W1/1A
-W4/1
-W1/1C
-W2/1
+50
+30
+50
+20
+20
 only white
-null
-W2/1
-W1/1A
+20
+20
+50
 only white
-W1/1A
+30
 only white
 only white
-W1/1C
-W3/1
+30
+50
 only white
 only white
-W4/1
+40
 only white
-W1/1C
-W4/1
+30
+30
 only white
 only white
-W5/1
-W1/1A
-W1/1C
-W5/1
-W5/1
-W5/1
-W4/1
-W2/1
+20
+20
+20
+20
+20
+20
+10
+50
 only white
-W1/1A
-W1/1A
-W5/1
+60
+60
+50
 only white
-W5/1
-W1/1C
+50
+50
 only white
-W2/1
-null
+100
+20
 only white
-W1/1B
+20
 only white
-W1/1B
+35
 only white
-W1/1A
-W4/1
+20
+30
 only white
-W1/1C
+40
 only white
 only white
-W3/1
+20
 only white
 only white
-W1/1A
-W1/1B
-W1/1B
+10
+20
+20
 only white
-W1/1B
-W4/1
-W4/1
-W1/1A
-W1/1B
-W1/1B
-W1/1B
-W1/1B
-W1/1B
-W2/1
-W1/1A
+40
+50
+20
+70
+50
+50
+10
+10
+10
+30
+5
 only white
 only white
 only white
-W1/1C
+30
 only white
 only white
 only white
 only white
 only white
 only white
-W1/1B
-W1/1C
-W1/1A
-W1/1A
-W1/1B
-W1/1A
+60
+40
+40
+40
+20
+30
 only white
-W1/1A
-W2/1
-W1/1C
-W2/1
-W1/1B
-W1/1B
-W1/1B
+70
+10
+40
+30
+20
+50
+70
 only white
 only white
-W1/1B
-W4/1
+20
+20
 only white
 only white
 only white
-W1/1B
-W9/1
-W5/1
-W1/1C
+40
+80
+20
+40
 only white
-W1/1A
+70
 only white
-W2/1
+60
 only white
 only white
-W1/1A
-W2/1
-W1/1C
-W1/1A
-W1/1C
+50
+40
+30
+10
+20
 only white
 only white
 only white
@@ -1078,11 +1078,11 @@ only white
 only white
 only white
 only white
-W5/1
-W2/1
-W1/1B
-W1/1B
-W1/1C
+20
+80
+20
+20
+20
 only white
 only white
 only white
@@ -1097,13 +1097,13 @@ only white
 only white
 only white
 only white
-W4/1
-W4/1
+50
+50
 only white
-W2/1
-W1/1C
-W1/1C
-W2/1
+40
+30
+30
+20
 only white
 only white
 only white
@@ -1114,268 +1114,268 @@ only white
 only white
 only white
 only white
-W1/1C
+40
 only white
-W2/1
-W2/1
-W2/1
+40
+60
+80
 only white
 only white
 only white
 only white
 only white
-W1/1C
+30
 only white
-W2/1
+80
 only white
 only white
 only white
 only white
 only white
-W4/1
-W4/1
-W4/1
+20
+20
+30
 only white
-W5/1
-W3/1
-W4/1
-W4/1
-W2/1
-W2/1
+20
+90
+30
+30
+10
+40
 only white
 only white
 only white
 only white
-W1/1C
-W2/1
-W2/1
-W2/1
-W2/1
-W1/1A
-W1/1A
-W1/1A
-W2/1
-W2/1
-W2/1
+20
+60
+80
+110
+30
+30
+30
+40
+60
+20
+20
 only white
-W1/1B
-W2/1
-W1/1B
+20
+40
+20
 only white
-W1/1B
-W1/1B
-W1/1A
-W1/1A
-W1/1B
-W2/1
-W2/1
+20
+20
+30
+30
+20
+20
+20
 only white
-W5/1
-W2/1
-W3/1
+40
+60
+30
 only white
-W4/1
+40
 only white
 only white
 only white
-W2/1
+20
 only white
-W1/1C
-W1/1B
-W1/1A
-W1/1B
-W1/1B
-W1/1B
+10
+30
+20
+30
+50
+60
 only white
-W1/1C
-W1/1B
-W1/1A
-W1/1A
-W1/1A
-W1/1A
+20
+30
+60
+40
+20
+20
 only white
 only white
 only white
-W2/1
-W1/1B
-W1/1B
+40
+50
+30
 only white
 only white
 only white
 only white
 only white
 only white
-W4/1
-W2/1
+60
+60
 only white
-W3/1
-W3/1
+10
+10
 only white
 only white
-W5/1
+80
 only white
-W2/1
-W2/1
-W2/1
+40
+30
+30
 only white
 only white
 only white
 only white
-W4/1
-W1/1B
-W4/1
-W4/1
+50
+20
+30
+60
 only white
 only white
 only white
-W1/1C
-W3/1
+20
+10
 only white
-W9/1
-W1/1B
-W1/1A
+60
+20
+40
 only white
-W2/1
+40
 only white
-W1/1B
-W1/1B
-W1/1B
+80
+60
+20
 only white
-W5/1
-W8/1
-W1/1B
-W1/1B
+60
+30
+20
+20
 only white
-W1/1B
-W1/1B
+80
+20
 only white
 only white
-W1/1C
-W1/1B
-W1/1C
-W1/1B
+20
+20
+50
+70
 only white
-W1/1B
-W2/1
-W1/1B
-W1/1B
-W1/1C
-W1/1C
-W5/1
+50
+60
+30
+20
+80
+40
+30
 only white
-W4/1
+30
 only white
-W8/1
+20
 only white
 only white
 only white
-W2/1
+20
 only white
 only white
-W1/1B
-W2/1
-W2/1
-No data
-No data
-null
-null
-null
-null
-No data
-No data
-No data
-No data
-No data
-W2/1
+80
+40
+80
+no Data
+no Data
+30
+30
+30
+30
+no Data
+no Data
+no Data
+no Data
+no Data
+60
 only white
-W1/1B
+30
 only white
-W2/1
+80
 only white
-W4/1
+40
 only white
 only white
 only white
 only white
 only white
-W1/1C
-W1/1C
-W1/1C
-W1/1C
+100
+20
+20
+30
 only white
-W1/1C
-W5/1
+20
+20
 only white
 only white
 only white
 only white
-W2/1
-W1/1B
+30
+20
 only white
-W5/1
-W1/1B
-W1/1A
+60
+30
+60
 only white
-W1/1C
-W2/1
-W2/1
-W2/1
+20
+20
+20
+20
 only white
-W1/1A
-W1/1A
+40
+40
 only white
-W1/1A
-W1/1A
-W1/1A
-W8/1
-W8/1
-W1/1A
-W1/1A
-W5/1
-W1/1A
+50
+50
+40
+30
+30
+40
+40
+30
+40
 only white
 only white
 only white
 only white
-W1/1C
-W2/1
+30
+10
 only white
 only white
 only white
-W2/1
-W1/1C
-W8/1
+50
+30
+10
 only white
-W8/1
+10
 only white
-W1/1A
-null
-W1/1B
-W1/1B
-W2/1
-W1/1A
+60
+50
+20
+20
+30
+50
 only white
 only white
 only white
-W2/1
+40
 only white
 only white
 only white
-W1/1C
-W1/1C
-W1/1C
-W2/1
-null
-W1/1B
+50
+40
+40
+100
+30
+40
 only white
 only white
 only white
 only white
-W1/1A
+20
 only white
 only white
 only white
-W1/1C
+40
 only white
 only white
 only white
@@ -1384,160 +1384,160 @@ only white
 only white
 only white
 only white
-W1/1A
-W1/1C
+20
+30
 W2/1
-W2/1
-W1/1B
-W2/1
+30
+20
+70
 only white
-W1/1B
+20
 only white
-W1/1B
-W1/1A
-W1/1C
-W5/1
-W2/1
-W2/1
+70
+40
+40
+40
+40
+30
 only white
-W1/1B
+70
 only white
-W4/1
-W8/1
-W2/1
-W1/1B
+40
+60
+60
+20
 only white
 only white
-W5/1
+20
 only white
-W5/1
+20
 only white
-W1/1A
-W1/1B
-W1/1B
+20
+20
+20
 only white
 only white
 only white
-W1/1C
-W1/1C
-W8/1
+35
+20
+10
 only white
-W1/1C
-W1/1B
-W5/1
-W1/1B
-W1/1B
-W5/1
-W5/1
-W5/1
-W5/1
-W5/1
-W5/1
-W1/1B
-W1/1B
+30
+20
+30
+30
+20
+30
+30
+20
+30
+30
+30
+20
+30
 only white
-W4/1
-W4/1
+60
+40
 only white
-W1/1A
-null
-W1/1B
-W1/1C
+50
+90
+40
+30
 only white
 only white
 only white
-W4/1
-W5/1
-W1/1C
-W2/1
+40
+50
+40
+20
 only white
-W1/1A
+20
 only white
 only white
-W1/1B
+20
 only white
-W5/1
+20
 only white
-W4/1
-W2/1
-W4/1
-W4/1
-W4/1
-W1/1A
-W2/1
-W3/1
+20
+50
+40
+10
+40
+35
+40
+30
 only white
 only white
 only white
 only white
-W1/1B
-W1/1B
-W1/1B
+20
+20
+20
 only white
-W1/1B
-W1/1B
-W1/1B
+40
+20
+20
 only white
-W2/1
-W1/1A
+30
+50
 only white
-W1/1C
-W1/1A
+20
+40
 only white
-W1/1C
+20
 only white
-W4/1
+40
 only white
 only white
-W1/1C
-W5/1
-W5/1
-W1/1B
+20
+20
+30
+20
 only white
 only white
-W5/1
-W5/1
-W2/1
-W9/1
-W1/1B
-W1/1B
-W1/1B
-W1/1B
+20
+20
+20
+60
+30
+20
+30
+20
 only white
-W1/1B
-W1/1B
-W1/1A
-W1/1B
-W1/1B
-W1/1B
+20
+20
+50
+20
+20
+60
 only white
-W1/1A
-W1/1A
+20
+20
 only white
-W4/1
-W1/1C
-KOP7
+60
+50
+10
 only white
 only white
-W2/1
-W5/1
-W2/1
-W1/1C
-W8/1
-W1/1A
+10
+30
+110
+20
+30
+30
 only white
-W2/1
+20
 only white
-W1/1B
+20
 only white
-W1/1C
-W1/1C
-W4/1
-W4/1
+30
+40
+40
+40
 only white
-W1/1C
+30
 only white
-W1/1A
+30
 only white
 only white
 only white
@@ -1546,20 +1546,20 @@ only white
 only white
 only white
 only white
-W1/1B
+30
 only white
 only white
 only white
 only white
-W1/1A
+20
 only white
-W2/1
+40
 only white
 only white
 only white
 only white
-W1/1A
-W1/1A
+40
+40
 only white
 only white
 only white
@@ -1570,136 +1570,136 @@ only white
 only white
 only white
 only white
-W5/1
+20
 only white
-W1/1B
-W4/1
-W1/1B
-W1/1B
-W1/1B
-W1/1C
-W1/1A
-W1/1B
-W1/1B
-W1/1B
-W1/1B
-W1/1B
-W1/1C
-W1/1A
-W1/1B
-W1/1B
-W1/1B
-W1/1B
-W1/1B
-W5/1
+30
+50
+30
+20
+20
+20
+40
+20
+20
+20
+20
+20
+40
+30
+20
+20
+20
+20
+20
+20
 only white
-W1/1B
-W1/1B
-W1/1B
-W1/1B
-W4/1
-W1/1B
-W1/1B
+20
+30
+30
+20
+40
+50
+20
 only white
-W1/1A
+50
 only white
-W1/1B
-W1/1A
+20
+90
 only white
-W5/1
-W5/1
+20
+30
 only white
-W2/1
-W1/1B
-W5/1
-W4/1
-W2/1
-W4/1
-W2/1
-null
-W1/1C
-W4/1
-W1/1B
+100
+60
+10
+20
+50
+40
+60
+80
+50
+60
+20
 only white
 only white
 only white
 only white
 only white
 only white
-W4/1
-No data
-W4/1
+50
+no Data
+20
 only white
 only white
-W1/1B
+30
 only white
-W1/1B
-W1/1B
+20
+20
 only white
 only white
-W1/1C
-W1/1B
+20
+20
 only white
 only white
 only white
 only white
-W1/1A
+20
 only white
-W1/1B
-W1/1A
-W1/1B
+20
+30
+20
 only white
-W4/1
-W1/1C
-W1/1B
-W1/1B
-W1/1B
-W5/1
+30
+30
+20
+20
+20
+20
 only white
-W1/1B
-W1/1B
-W5/1
-W1/1B
-W2/1
+20
+20
+20
+20
+60
 only white
 only white
 only white
-W1/1B
+20
 only white
-W1/1C
-W1/1B
-W1/1B
-W9/1
-W1/1B
+40
+20
+20
+30
+20
 only white
 only white
 only white
 only white
-W1/1B
-W2/1
-W4/1
-W1/1A
-W1/1A
-W1/1B
+25
+50
+40
+20
+40
+20
 only white
 only white
 only white
-W1/1A
+40
 only white
-W1/1C
-W5/1
-W1/1C
+20
+20
+20
 only white
-W1/1C
-W1/1B
+20
+20
 only white
-W8/1
-W1/1C
-W1/1B
+20
+20
+20
 only white
-W1/1B
+20
 only white
-W1/1C
+40
 only white
 only white
 only white
@@ -1708,322 +1708,321 @@ only white
 only white
 only white
 only white
-W1/1C
+20
 only white
 only white
-W1/1B
-W4/1
+20
+20
 only white
 only white
 only white
 only white
 only white
-W1/1B
+20
 only white
-W1/1B
-W4/1
-W1/1B
-W1/1B
-W1/1B
-W1/1B
+20
+50
+20
+20
+20
+20
 only white
 only white
 only white
 only white
-W1/1B
+20
 only white
-W1/1A
-W1/1B
-W1/1B
+20
+20
+20
 only white
-W2/1
+30
 only white
 only white
 only white
 only white
 only white
 only white
-W1/1A
+40
 only white
-No data
-W1/1B
-W1/1B
-W1/1B
-W2/1
-W5/1
-W5/1
-W1/1B
-W1/1B
+no Data
+20
+20
+20
+70
+20
+20
+20
+30
 only white
-W1/1B
-W4/1
+30
+40
 only white
-W1/1C
+40
 only white
-W1/1B
+40
 only white
 only white
-W4/1
+20
 only white
 only white
 only white
 only white
-W4/1
+60
 only white
-W1/1B
-W1/1B
-W1/1B
+40
+20
+20
 only white
-W1/1C
+30
 only white
-W1/1B
+30
 only white
 only white
 only white
 only white
-W1/1B
+20
 only white
-W1/1C
-W1/1A
+40
+70
 only white
 only white
 only white
-W1/1C
-W1/1B
+40
+20
 only white
 only white
-W4/1
-W2/1
-W1/1A
-W1/1A
-W1/1A
-W1/1A
-W1/1A
+40
+30
+40
+30
+40
+40
+40
 only white
 only white
 only white
 only white
 only white
-W1/1B
-W4/1
-W5/1
-W5/1
-W5/1
-null
-W1/1C
-W1/1B
-W1/1B
+20
+20
+20
+20
+30
+40
+30
+20
+20
 only white
 only white
 only white
 only white
 only white
 only white
-W8/1
+30
 only white
-W1/1C
-W1/1C
-W1/1B
+20
+20
+20
 only white
-W1/1B
-W1/1B
+30
+20
 only white
 only white
 only white
 only white
-W4/1
+70
 only white
 only white
 only white
 only white
 only white
-W1/1A
-W1/1C
-W1/1B
-W2/1
-W2/1
-W2/1
-W1/1C
-W1/1B
-W1/1C
+40
+20
+20
+40
+40
+40
+40
+60
+30
 only white
 only white
 only white
-W1/1A
-W1/1A
-W1/1A
-W1/1A
-W8/1
-W8/1
+40
+30
+20
+10
+10
+10
 only white
-W1/1C
-W1/1A
+20
+40
 only white
-W1/1B
-W1/1B
-W5/1
+20
+20
+20
 only white
 only white
 only white
-W1/1B
+20
 only white
 only white
 only white
-W8/1
-W1/1B
+20
+20
 only white
 only white
 only white
 only white
-W8/1
-W1/1A
-W1/1B
+30
+50
+20
 only white
-W1/1C
+40
 only white
-W1/1B
+40
 only white
 only white
 only white
-W1/1B
-W1/1C
-W1/1A
-W2/1
-W1/1C
+20
+50
+20
+40
+20
 only white
 only white
-W1/1C
-W1/1C
-W1/1C
+20
+20
+20
 only white
-W1/1A
+20
 only white
 only white
-W1/1C
+30
 only white
 only white
 only white
-W1/1C
-W1/1C
-W1/1C
-W1/1B
+20
+40
+40
+20
 only white
-W1/1C
-W2/1
+30
+50
 only white
 only white
-W1/1B
-W1/1C
+40
+20
 only white
 only white
 only white
 only white
 only white
-W1/1B
+20
 only white
-W5/1
-W1/1A
-W1/1A
-KOP prblm
-W1/1C
-W1/1C
-only white
-W1/1A
-W1/1A
-W1/1B
-W4/1
-W1/1B
-W8/1
+10
+60
+40
+40
+40
+40
 only white
-W1/1B
-W1/1B
-No data
-No data
+20
+20
+20
+50
+20
+30
 only white
-W4/1
+50
+20
+no Data
+no Data
 only white
+40
 only white
 only white
-W1/1B
-W5/1
-W1/1B
-W4/1
-W1/1B
-W1/1B
 only white
-W1/1B
-W1/1B
-W4/1
+20
+40
+50
+50
+20
+20
 only white
+20
+20
+50
 only white
 only white
-W1/1B
-W1/1A
-W1/1B
-W1/1C
 only white
-W1/1B
+20
+20
+10
+20
 only white
+20
 only white
 only white
-W1/1B
-W1/1C
-W1/1B
-W1/1B
-W5/1
-W1/1B
-W1/1B
 only white
+50
+30
+20
+20
+10
+50
+20
 only white
 only white
-W2/1
-W1/1B
-W3/1
 only white
+30
+40
+20
 only white
 only white
 only white
-W2/1
-W2/1
-W1/1C
-W2/1
 only white
+30
+30
+30
+50
 only white
 only white
 only white
 only white
 only white
-W1/1A
-W1/1C
-W1/1C
 only white
+40
+30
+40
 only white
-W1/1C
-W1/1C
-W1/1C
 only white
-W1/1B
-W2/1
+40
+20
+40
 only white
+20
+30
 only white
 only white
-KOP7
-W1/1B
-W1/1B
-W1/1B
-W1/1B
-W1/1B
 only white
-W1/1B
+60
+20
+20
+20
+20
+20
 only white
+20
 only white
-W1/1B
-W1/1B
-W1/1B
 only white
+20
+20
+20
 only white
-W1/1B
 only white
+30
 only white
 only white
 only white
@@ -2033,37 +2032,37 @@ only white
 only white
 only white
 only white
-W1/1B
-W1/1C
-W1/1A
 only white
-W1/1B
+20
+30
+40
 only white
-W1/1B
+20
 only white
+20
 only white
 only white
 only white
-W1/1B
 only white
-W2/1
-W2/1
-W3/1
-W3/1
-W1/1A
-W2/1
+60
 only white
+60
+60
+180
+100
+30
+20
 only white
 only white
 only white
-W1/1A
-W2/1
 only white
+40
+20
 only white
 only white
 only white
-W4/1
 only white
+40
 only white
 only white
 only white
@@ -2071,70 +2070,70 @@ only white
 only white
 only white
 only white
-W5/1
 only white
+30
 only white
 only white
-W1/1B
-W4/1
 only white
+20
+40
 only white
 only white
 only white
-W1/1A
 only white
+30
 only white
 only white
-W1/1B
-W1/1C
 only white
+20
+30
 only white
 only white
-W1/1B
-W1/1B
-W1/1A
-W5/1
-W5/1
-W5/1
-W5/1
-W1/1B
-W1/1B
 only white
-W1/1C
-W1/1B
+20
+20
+50
+20
+20
+20
+20
+30
+30
 only white
+20
+20
 only white
-W1/1B
 only white
-W1/1B
+20
 only white
-W1/1B
-W1/1B
+20
 only white
+20
+20
 only white
 only white
-W1/1B
-W1/1B
 only white
+20
+20
 only white
 only white
 only white
-W1/1C
 only white
+30
 only white
 only white
 only white
-W4/1
 only white
+40
 only white
 only white
 only white
 only white
 only white
 only white
-null
-W5/1
 only white
+20
+20
 only white
 only white
 only white
@@ -2142,10 +2141,10 @@ only white
 only white
 only white
 only white
-W1/1C
 only white
-W1/1C
+20
 only white
+40
 only white
 only white
 only white
@@ -2155,42 +2154,42 @@ only white
 only white
 only white
 only white
-W1/1C
 only white
-W1/1C
+30
 only white
-W1/1B
+30
 only white
+40
 only white
 only white
 only white
 only white
 only white
-W1/1B
-W1/1B
 only white
+20
+20
 only white
-W1/1C
-W1/1B
-W1/1B
-W1/1C
-W1/1C
-W1/1A
-W1/1B
-W1/1B
-W1/1C
 only white
-W1/1B
+30
+40
+40
+30
+30
+40
+20
+20
+20
 only white
-W1/1B
+30
 only white
+20
 only white
 only white
 only white
 only white
-W4/1
-W4/1
 only white
+40
+40
 only white
 only white
 only white
@@ -2207,11 +2206,11 @@ only white
 only white
 only white
 only white
-W1/1B
-W1/1B
-W1/1B
-W1/1B
 only white
+20
+30
+20
+20
 only white
 only white
 only white
@@ -2481,8 +2480,8 @@ only white
 only white
 only white
 only white
-W1/1B
 only white
+20
 only white
 only white
 only white
@@ -2643,8 +2642,8 @@ only white
 only white
 only white
 only white
-No data
 only white
+no Data
 only white
 only white
 only white
@@ -2655,25 +2654,26 @@ only white
 only white
 only white
 only white
-W1/1A
-W1/1B
 only white
+100
+25
 only white
 only white
 only white
 only white
-W1/1A
-W1/1B
-W8/1
-W1/1B
 only white
-No data
+20
+30
+20
+20
 only white
+no Data
 only white
 only white
 only white
 only white
-W2/1
+only white
+20
 only white
 only white
 only white

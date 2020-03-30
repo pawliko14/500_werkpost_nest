@@ -31,6 +31,7 @@ public class Main_v2 {
 	private static  OutputStreamWriter osw ;
 	private static PrintWriter Nest_out ;
 	private static PrintWriter WerkPost_out;
+	private static PrintWriter Seq_out;
 	
 	private static List<String> project_list;
 	
@@ -41,6 +42,7 @@ public class Main_v2 {
 		
 		Nest_out = new PrintWriter("Nest.txt");
 		WerkPost_out = new PrintWriter("Worknotes.txt");
+		Seq_out = new PrintWriter("seq.txt");
 		
 //		for(String l : project_list)
 //		{
@@ -56,6 +58,7 @@ public class Main_v2 {
 		
 		Nest_out.close();
 		WerkPost_out.close();
+		Seq_out.close();
 		
 	}
 	
@@ -89,7 +92,7 @@ public class Main_v2 {
 		String p2 = s[1];
 		
 	//	 p1 = "500";
-	//	 p2 = "187490";
+	//	 p2 = "190912";
 		
 		String sql2 = "select AFDELINGSEQ, SEQ, WERKPOST,STATUS, HOEVEELHEID,NEST from werkbon\r\n" + 
 				"where afdeling = '"+p1+"'\r\n" + 
@@ -104,6 +107,7 @@ public class Main_v2 {
 			System.out.println("there is no data for that 500!");
 			Nest_out.println("No data");
 			WerkPost_out.println("No data");
+			Seq_out.println("no Data");
 
 		}
 		else
@@ -137,12 +141,236 @@ public class Main_v2 {
 				
 				System.out.println(	SearchAlgorythm(ListaObiekt));
 				System.out.println(	SearchAlgorythm_werkpost(ListaObiekt));
+				System.out.println(	searchAlgorytm_seq(ListaObiekt));
 
 				Nest_out.println(		SearchAlgorythm(ListaObiekt));
 				WerkPost_out.println(    SearchAlgorythm_werkpost(ListaObiekt));
+				Seq_out.println(   searchAlgorytm_seq(ListaObiekt));
 				
 	}
 		
+	
+	}
+	
+	public static String searchAlgorytm_seq (List<Obiekt500> lista)
+	{
+
+		// if all records are White
+		
+	//	int size = lista.size();
+		
+	//	String temporary = null;
+		
+		int sumof10 = 0;
+		int sumof90 = 0;
+		int sumof20 = 0;
+		for(int i = 0 ; i < lista.size(); i++)
+		{
+			
+			if(lista.get(i).getStatus().equals("10"))
+					{
+						sumof10++;
+					}
+				else if ( lista.get(i).getStatus().equals("90"))
+					{
+						sumof90++;
+					}
+				else if( lista.get(i).getStatus().equals("20"))
+					{
+						sumof20++;
+					}
+		}
+		
+		// if only G
+		if(sumof90 == lista.size() &&  sumof10 == 0 && sumof20 == 0)
+		{
+			return lista.get(lista.size()-1).getSeq();
+		}
+		else if (sumof10 == lista.size() &&  sumof90 == 0 && sumof20 == 0)
+		{
+			return "only white";
+		}
+		else if (sumof20 == lista.size() &&  sumof90 == 0 && sumof10 == 0)
+		{
+			return lista.get(lista.size()-1).getSeq();
+		}
+		else // MIXED
+		{
+			if(sumof20 >= 1)
+			{
+				if( sumof20 == 1)
+				{
+					String temp = null;
+						for(int i = 0 ; i < lista.size();i++)
+						{
+							if(lista.get(i).getStatus().equals("20"))
+							{
+								System.out.println("seq "+ lista.get(i).getSeq());
+								temp = lista.get(i).getSeq();
+							}
+						}
+					return temp;
+				}
+				else if(sumof20 >= 2)
+				{
+					Map<String,String>  temp_map= new TreeMap<String,String>();
+					
+					List<String> listaa_wydzial = new ArrayList<>();
+					List<String> listaa_seq = new ArrayList<>();
+					
+					
+					
+					
+					for(int i = 0 ; i < lista.size();i++)
+					{
+						if(lista.get(i).getStatus().equals("20"))
+						{
+							
+							if(lista.get(i).toString() == null)
+							{
+									System.out.println("problem"  );
+									String kop = "KOP prblm";
+									temp_map.put(lista.get(i).getSeq(),kop);
+							}
+							else
+							{
+							//	System.out.println("problem"  );
+
+								temp_map.put(lista.get(i).getSeq(),lista.get(i).toString());
+								listaa_seq.add(lista.get(i).getSeq());
+								
+							}
+							
+						}
+					}		
+					
+			
+							String maxxx = Collections.max(listaa_seq);
+
+
+
+			
+					
+					//return maxUsingCollectionsMax(temp_map);
+					
+					return maxxx;
+					
+				}
+			}
+			else // ONLY GREENS AND WHITES
+			{
+				
+				if(sumof10 == 1 && sumof90 >=1)
+				{
+					String LastOne90 = lista.get(lista.size()-1).getStatus();
+					
+					if(LastOne90.equals("10"))
+					{
+						for(int i = 1 ; i < lista.size(); i++)
+						{
+						 if(lista.get(i-1).getStatus().equals("90") && lista.get(i).getStatus().equals("10"))
+							{			 
+								return lista.get(i).getSeq();
+							}	
+						 }
+						}
+					else
+					{
+						Map<String,String>  temp_map= new TreeMap<String,String>();
+						
+						for(int i = 0 ; i < lista.size();i++)
+						{
+							if(lista.get(i).getStatus().equals("90"))
+							{
+								
+								if(lista.get(i).toString() == null)
+								{
+										System.out.println("problem"  );
+										String kop = "val prblm";
+										temp_map.put(kop,lista.get(i).getSeq());
+								}
+								else
+								{
+									temp_map.put(lista.get(i).getSeq(), lista.get(i).toString());
+								}
+								
+							
+							}
+						}						
+					//	System.out.println(maxUsingCollectionsMax(temp_map));
+						
+						return maxUsingCollectionsMax(temp_map);
+					}
+				}
+				else if(sumof10 >= 2  && sumof90 >=1)
+				{
+					
+						Map<String,String>  temp_map= new TreeMap<String,String>();
+						List<Integer> seq_list = new ArrayList<>();
+					
+					for(int i = 0 ; i < lista.size();i++)
+					{
+						if(lista.get(i).getStatus().equals("90"))
+						{
+							
+							
+							
+							if(lista.get(i).toString() == null)
+							{
+									System.out.println("problem"  );
+									String kop = "KOP prblm";
+							//		temp_map.put(kop,lista.get(i).getSeq());
+									
+									temp_map.put(kop,lista.get(i).getSeq());
+									seq_list.add(Integer.parseInt(lista.get(i).getSeq()));
+									
+							}
+							else
+							{
+								//temp_map.put(lista.get(i).toString(),lista.get(i).getSeq());
+								
+								temp_map.put(lista.get(i).toString(),lista.get(i).getSeq());
+								seq_list.add(Integer.parseInt(lista.get(i).getSeq()));
+							}
+							
+						}
+					}	
+					
+					int maxxx = Collections.max(seq_list) / 10;
+					
+					
+					
+					
+				
+					String werkopost_temp = maxUsingCollectionsMax(temp_map);
+					String seq_temp = temp_map.get(werkopost_temp);
+					
+					
+					int seq_temp_divided_by_10 = Integer.parseInt(seq_temp) / 10;
+					
+					
+					if(lista.size() > maxxx)
+					{
+
+						return(lista.get(maxxx ).getSeq());
+					}
+					else
+					{
+
+						return maxUsingCollectionsMax(temp_map);
+					}
+					
+				//	return maxUsingCollectionsMax(temp_map);
+					
+				}
+			}
+			
+		}
+		
+		
+		
+		
+		return null;
 	
 	}
 	
@@ -226,6 +454,7 @@ public class Main_v2 {
 							else
 							{
 								temp_map.put(lista.get(i).toString(),lista.get(i).getSeq());
+								
 							}
 							
 						}
